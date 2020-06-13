@@ -1,0 +1,4 @@
+django_env
+__pycache__/
+*.pyc
+/dist/
