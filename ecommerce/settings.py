@@ -123,3 +123,8 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'ecommerce/static'),
 ]
+
+## add media roo for images etc.
+## more details see documents
+MEDIA_URL = '/images/'
+MEDIA_ROOT = os.path.join(BASE_DIR, 'ecommerce/static/images')
