@@ -2,4 +2,5 @@ django_env
 __pycache__/
 *.pyc
 /dist/
-migrations/
+migrations/even/
+venv/
